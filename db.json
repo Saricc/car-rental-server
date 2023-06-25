@@ -1,0 +1,154 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "brand": "audi",
+            "model": "A6",
+            "year": 2012,
+            "automatic": true,
+            "color": "black",
+            "price": 130,
+            "rented": false,
+            "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/39472/a6-exterior-right-front-three-quarter.jpeg?q=75",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 2,
+            "brand": "audi",
+            "model": "Q5",
+            "year": 2005,
+            "automatic": true,
+            "color": "black",
+            "price": 130,
+            "rented": false,
+            "image": "https://www.bentleywashingtondc.com/imagetag/2691/main/l/Used-2014-Audi-Q5-20T-quattro-Premium-Plus-1626898896.jpg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 3,
+            "brand": "toyota",
+            "model": "chr",
+            "year": 2005,
+            "automatic": false,
+            "color": "red",
+            "price": 130,
+            "rented": false,
+            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 4,
+            "brand": "citroen",
+            "model": "C5",
+            "year": 2005,
+            "automatic": false,
+            "color": "gray",
+            "price": 130,
+            "rented": false,
+            "image": "https://www.media.stellantis.com/cache/7/e/c/4/4/7ec44789302723402736a000c440426388f43a8d.jpeg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 5,
+            "brand": "mercedes",
+            "model": "gls",
+            "year": 2010,
+            "automatic": false,
+            "color": "white",
+            "price": 130,
+            "rented": false,
+            "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/45390/gls-exterior-right-front-three-quarter-2.jpeg?q=75",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 3,
+            "brand": "toyota",
+            "model": "chr",
+            "year": 2005,
+            "automatic": false,
+            "color": "red",
+            "price": 130,
+            "rented": false,
+            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 3,
+            "brand": "toyota",
+            "model": "chr",
+            "year": 2005,
+            "automatic": false,
+            "color": "red",
+            "price": 130,
+            "rented": false,
+            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 3,
+            "brand": "toyota",
+            "model": "chr",
+            "year": 2005,
+            "automatic": false,
+            "color": "red",
+            "price": 130,
+            "rented": false,
+            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 3,
+            "brand": "toyota",
+            "model": "chr",
+            "year": 2005,
+            "automatic": false,
+            "color": "red",
+            "price": 130,
+            "rented": false,
+            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        },
+        {
+            "id": 3,
+            "brand": "toyota",
+            "model": "chr",
+            "year": 2005,
+            "automatic": false,
+            "color": "red",
+            "price": 130,
+            "rented": false,
+            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+            "rentData": {
+                "rentStart": 20230113,
+                "rentEnd": 20230119
+            }
+        }
+    ]
+}
