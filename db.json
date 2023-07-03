@@ -1,154 +1,162 @@
 {
-    "cars": [
+  "cars": [
+    {
+      "id": 1,
+      "brand": "audi",
+      "model": "A6",
+      "year": 2012,
+      "automatic": true,
+      "color": "black",
+      "price": 130,
+      "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/39472/a6-exterior-right-front-three-quarter.jpeg?q=75",
+      "rentData": [
         {
-            "id": 1,
-            "brand": "audi",
-            "model": "A6",
-            "year": 2012,
-            "automatic": true,
-            "color": "black",
-            "price": 130,
-            "rented": false,
-            "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/39472/a6-exterior-right-front-three-quarter.jpeg?q=75",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
+          "startDate": 20230704,
+          "endDate": 20230714
         },
         {
-            "id": 2,
-            "brand": "audi",
-            "model": "Q5",
-            "year": 2005,
-            "automatic": true,
-            "color": "black",
-            "price": 130,
-            "rented": false,
-            "image": "https://www.bentleywashingtondc.com/imagetag/2691/main/l/Used-2014-Audi-Q5-20T-quattro-Premium-Plus-1626898896.jpg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
+          "startDate": 20230704,
+          "endDate": 20230714
         },
         {
-            "id": 3,
-            "brand": "toyota",
-            "model": "chr",
-            "year": 2005,
-            "automatic": false,
-            "color": "red",
-            "price": 130,
-            "rented": false,
-            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
-        },
-        {
-            "id": 4,
-            "brand": "citroen",
-            "model": "C5",
-            "year": 2005,
-            "automatic": false,
-            "color": "gray",
-            "price": 130,
-            "rented": false,
-            "image": "https://www.media.stellantis.com/cache/7/e/c/4/4/7ec44789302723402736a000c440426388f43a8d.jpeg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
-        },
-        {
-            "id": 5,
-            "brand": "mercedes",
-            "model": "gls",
-            "year": 2010,
-            "automatic": false,
-            "color": "white",
-            "price": 130,
-            "rented": false,
-            "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/45390/gls-exterior-right-front-three-quarter-2.jpeg?q=75",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
-        },
-        {
-            "id": 3,
-            "brand": "toyota",
-            "model": "chr",
-            "year": 2005,
-            "automatic": false,
-            "color": "red",
-            "price": 130,
-            "rented": false,
-            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
-        },
-        {
-            "id": 3,
-            "brand": "toyota",
-            "model": "chr",
-            "year": 2005,
-            "automatic": false,
-            "color": "red",
-            "price": 130,
-            "rented": false,
-            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
-        },
-        {
-            "id": 3,
-            "brand": "toyota",
-            "model": "chr",
-            "year": 2005,
-            "automatic": false,
-            "color": "red",
-            "price": 130,
-            "rented": false,
-            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
-        },
-        {
-            "id": 3,
-            "brand": "toyota",
-            "model": "chr",
-            "year": 2005,
-            "automatic": false,
-            "color": "red",
-            "price": 130,
-            "rented": false,
-            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
-        },
-        {
-            "id": 3,
-            "brand": "toyota",
-            "model": "chr",
-            "year": 2005,
-            "automatic": false,
-            "color": "red",
-            "price": 130,
-            "rented": false,
-            "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
-            "rentData": {
-                "rentStart": 20230113,
-                "rentEnd": 20230119
-            }
+          "startDate": 20230817,
+          "endDate": 20230914
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "audi",
+      "model": "Q5",
+      "year": 2005,
+      "automatic": true,
+      "color": "black",
+      "price": 130,
+      "rented": false,
+      "image": "https://www.bentleywashingtondc.com/imagetag/2691/main/l/Used-2014-Audi-Q5-20T-quattro-Premium-Plus-1626898896.jpg",
+      "rentData": [
+        {
+          "startDate": 20230801,
+          "endDate": 20230804
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "toyota",
+      "model": "chr",
+      "year": 2005,
+      "automatic": false,
+      "color": "red",
+      "price": 130,
+      "rented": false,
+      "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+      "rentData": [
+        {
+          "startDate": 20230808,
+          "endDate": 20230818
+        },
+        {
+          "startDate": 20230801,
+          "endDate": 20230806
+        },
+        {
+          "startDate": 20230810,
+          "endDate": 20230811
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "citroen",
+      "model": "C5",
+      "year": 2005,
+      "automatic": false,
+      "color": "gray",
+      "price": 130,
+      "rented": false,
+      "image": "https://www.media.stellantis.com/cache/7/e/c/4/4/7ec44789302723402736a000c440426388f43a8d.jpeg",
+      "rentData": [
+        {
+          "startDate": 20231101,
+          "endDate": 20231110
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "mercedes",
+      "model": "gls",
+      "year": 2010,
+      "automatic": false,
+      "color": "white",
+      "price": 130,
+      "rented": false,
+      "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/45390/gls-exterior-right-front-three-quarter-2.jpeg?q=75",
+      "rentData": [
+        {
+          "startDate": 20230915,
+          "endDate": 20231214
+        },
+        {
+          "startDate": 20230706,
+          "endDate": 20230708
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "toyota",
+      "model": "chr",
+      "year": 2005,
+      "automatic": false,
+      "color": "red",
+      "price": 130,
+      "rented": false,
+      "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+      "rentData": []
+    },
+    {
+      "id": 7,
+      "brand": "toyota",
+      "model": "chr",
+      "year": 2005,
+      "automatic": false,
+      "color": "red",
+      "price": 130,
+      "rented": false,
+      "image": "https://m.atcdn.co.uk/vms/media/5131cf5afd34459f86f165d5258bcf29.jpg",
+      "rentData": [
+        {
+          "startDate": 20231013,
+          "endDate": 20231020
+        },
+        {
+          "startDate": 20231002,
+          "endDate": 20231012
+        },
+        {
+          "startDate": 20231014,
+          "endDate": 20231015
+        },
+        {
+          "startDate": 20230801,
+          "endDate": 20230804,
+          "userId": 1
+        }
+      ]
+    }
+  ],
+  "user": [
+    {
+      "firstName": "f",
+      "lastName": "f",
+      "city": "f",
+      "phoneNumber": "f",
+      "numberID": "f",
+      "username": "f",
+      "password": "f",
+      "id": 1
+    }
+  ]
 }
